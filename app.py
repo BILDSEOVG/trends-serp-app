@@ -8,8 +8,8 @@ import openai
 import pandas as pd
 
 # --- API KEYS ---
-SERPAPI_KEY = "iA3WvNt5WVtKYqWbXmQpmWeG"
-openai.api_key = "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"
+SERPAPI_KEY = "SERPAPI_KEY"
+openai.api_key = "OPENAI_API_KEY"
 
 # --- UI ---
 st.title("🔎 Google Trends & SERP Content Finder")
