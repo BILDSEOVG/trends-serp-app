@@ -1,0 +1,6 @@
+streamlit
+pytrends
+serpapi
+openai
+scikit-learn
+pandas
